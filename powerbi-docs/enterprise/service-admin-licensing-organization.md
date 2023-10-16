@@ -54,7 +54,7 @@ To assign a **Fabric free** license to all existing users:
 
 1. From your global admin or billing admin account, sign in to the [Microsoft 365 admin center](https://admin.microsoft.com).
 1. On the navigation menu, select **Billing** and then select **Purchase services**.
-1. Search or scroll to locate the Power BI (free) offer. Select **Details**.
+1. Search or scroll to locate the Fabric (free) offer. Select **Details**.
 1. Select the number of licenses you want, and then select **Buy**.
 
     :::image type="content" source="media/service-admin-licensing-organization/m365-assign-2021.png" alt-text="Screenshot showing the Fabric free subscription dialog.":::
